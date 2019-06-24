@@ -1,0 +1,4 @@
+name: Illusory
+version: ${project.version}
+main: sexy.kostya.illusory.Illusory
+authors: [k_shandurenko]
